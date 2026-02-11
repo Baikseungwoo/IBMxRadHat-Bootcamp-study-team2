@@ -27,7 +27,7 @@ for  learning JavaScrit and SQLD
 
 <tr align="center">
 <td><a href="https://github.com/baikseungwoo">승우</td>
-<td><a href="">승태</td>
+<td><a href="https://github.com/nst6830-hash">승태</td>
 <td><a href="">유민</td>
 <td><a href="">지민</td>
 <td><a href="">건일</td>
