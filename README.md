@@ -53,7 +53,7 @@ for  learning JavaScrit and SQLD
 ** JS-호이스팅에 대한 문서화 및 수업시간 문제에 대한 복습 **
 
 * 승우 <a href="https://velog.io/@swbaik01/JavaScript-Hoisting">JS-호이스팅에 대한 문서화 자료</a>
-* 승태 <a href="">JS-호이스팅에 대한 문서화 자료</a>
+* 승태 <a href="https://no-stay.tistory.com/5">JS-호이스팅에 대한 문서화 자료</a>
 * 유민 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 * 지민 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 * 건일 <a href="">JS-호이스팅에 대한 문서화 자료</a>
