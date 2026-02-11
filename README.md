@@ -51,7 +51,8 @@ for  learning JavaScrit and SQLD
 ### 📚 Study Record
 
 매일매일 각자 수업내용을 정리한 내용들을 자유롭게 업로드하여 공유하고 참고.
-#### Study Record 페이지로 이동 []
+#### Study Record 페이지로 이동[바로가기](study record/readme.md)
+
 
 ### 정기 스터디 활동 정리
 
