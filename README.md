@@ -42,7 +42,7 @@ for  learning JavaScrit and SQLD
 <td><a href="">지민 블로그</td>
 <td><a href="">건일 블로그</td>
 <td><a href="">기은 블로그</td>
-<td><a href="">승태 블로그</td>
+<td><a href="https://no-stay.tistory.com/5">승태 블로그</td>
 </tr>
 </table>
 
