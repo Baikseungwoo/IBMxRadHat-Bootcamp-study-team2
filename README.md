@@ -38,11 +38,11 @@ for  learning JavaScrit and SQLD
 
 <tr align="center">
 <td><a href="https://velog.io/@swbaik01/posts">승우 블로그</td>
+<td><a href="https://no-stay.tistory.com/5">승태 블로그</td>
 <td><a href="">유민 블로그</td>
 <td><a href="">지민 블로그</td>
 <td><a href="">건일 블로그</td>
 <td><a href="">기은 블로그</td>
-<td><a href="https://no-stay.tistory.com/5">승태 블로그</td>
 </tr>
 </table>
 
