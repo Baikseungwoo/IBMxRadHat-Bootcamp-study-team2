@@ -73,7 +73,7 @@ for  learning JavaScrit and SQLD
 
 #### JS - 얕은 복사 / 깊은복사에 대한 개념정리 **
 
-* 승우 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
+* 승우 <a href="https://velog.io/@swbaik01/JavaScript-얕은복사깊은복사">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 * 승태 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 * 유민 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 * 지민 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
