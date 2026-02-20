@@ -81,3 +81,15 @@ for  learning JavaScrit and SQLD
 * 기은 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 <br>
 
+2026.02.20 (금) - 2월 3주차 1회 스터디
+
+#### JS - 얕은 복사 / 깊은복사에 대한 개념정리 **
+
+* 승우 <a href=""></a>
+* 승태 <a href=""></a>
+* 유민 <a href=""></a>
+* 지민 <a href=""></a>
+* 건일 <a href=""></a>
+* 기은 <a href=""></a>
+<br>
+
