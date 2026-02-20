@@ -22,6 +22,7 @@ for  learning JavaScrit and SQLD
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
+<td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
 </tr>
 
 
@@ -32,6 +33,7 @@ for  learning JavaScrit and SQLD
 <td><a href="">지민</td>
 <td><a href="">건일</td>
 <td><a href="">기은</td>
+<td><a href="">아림</td>
 
 </tr>
 
@@ -43,6 +45,7 @@ for  learning JavaScrit and SQLD
 <td><a href="">지민 블로그</td>
 <td><a href="">건일 블로그</td>
 <td><a href="https://share.novela.so/file/698b04848d3e7b4c0b4dcd1f">기은 블로그</td>
+<td><a href="">아림 블로그</td>
 </tr>
 </table>
 
@@ -67,6 +70,7 @@ for  learning JavaScrit and SQLD
 * 지민 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 * 건일 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 * 기은 <a href="https://share.novela.so/file/698b04848d3e7b4c0b4dcd1f">JS-호이스팅에 대한 문서화 자료</a>
+* 아림 <a href="">JS-호이스팅에 대한 문서화 자료</a>
 <br>
 
 2026.02.13 (금) - 2월 2주차 2회 스터디
@@ -79,6 +83,7 @@ for  learning JavaScrit and SQLD
 * 지민 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 * 건일 <a href="https://velog.io/@gunil1123/02-13-JS-수업-내용">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 * 기은 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
+* 아림 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 <br>
 
 2026.02.20 (금) - 2월 3주차 1회 스터디
@@ -91,5 +96,6 @@ for  learning JavaScrit and SQLD
 * 지민 <a href=""></a>
 * 건일 <a href=""></a>
 * 기은 <a href=""></a>
+* 아림 <a href=""></a>
 <br>
 
