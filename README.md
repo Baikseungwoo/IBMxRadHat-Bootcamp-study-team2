@@ -86,7 +86,7 @@ for  learning JavaScrit and SQLD
 #### JS - 예제 문제(자동 채점 사칙연산 퀴즈) **
 
 * 승우 <a href="https://velog.io/@swbaik01/JavaScript-예제">승우 해답</a>
-* 승태 <a href=""></a>
+* 승태 <a href="https://no-stay.tistory.com/11">승태 해답</a>
 * 유민 <a href=""></a>
 * 지민 <a href=""></a>
 * 건일 <a href=""></a>
