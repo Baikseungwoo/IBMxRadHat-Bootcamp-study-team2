@@ -107,7 +107,7 @@ for  learning JavaScrit and SQLD
 * 승태 <a href="https://no-stay.tistory.com/11">승태 해답</a>
 * 유민 <a href=""></a>
 * 지민 <a href=""></a>
-* 건일 <a href=""></a>
+* 건일 <a href="">건일 해답</a> <a href="https://github.com/gunil123/ibm-redhat-ai-python.git">파이썬 정리</a>
 * 기은 <a href=""></a>
 * 아림 <a href=""></a>
 <br>
