@@ -86,6 +86,19 @@ for  learning JavaScrit and SQLD
 * 아림 <a href="">JS-얕은 복사 / 깊은복사에 대한 개념정리</a>
 <br>
 
+2026.02.19 (목) - 개별 스터디 
+
+#### JS - new Promise/ async,await 개념 정리 **
+
+* 승우 <a href="">JS-new Promise/ async,await 개념 정리</a>
+* 승태 <a href="https://no-stay.tistory.com/9">JS-new Promise/ async,await 개념 정리</a>
+* 유민 <a href="">JS-new Promise/ async,await 개념 정리</a>
+* 지민 <a href="">JS-new Promise/ async,await 개념 정리</a>
+* 건일 <a href="">JS-new Promise/ async,await 개념 정리</a>
+* 기은 <a href="">JS-new Promise/ async,await 개념 정리</a>
+* 아림 <a href="">JS-new Promise/ async,await 개념 정리</a>
+<br>
+
 2026.02.20 (금) - 2월 3주차 1회 스터디
 
 #### JS - 예제 문제(자동 채점 사칙연산 퀴즈) **
