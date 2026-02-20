@@ -83,9 +83,9 @@ for  learning JavaScrit and SQLD
 
 2026.02.20 (금) - 2월 3주차 1회 스터디
 
-#### JS - 얕은 복사 / 깊은복사에 대한 개념정리 **
+#### JS - 예제 문제(자동 채점 사칙연산 퀴즈) **
 
-* 승우 <a href=""></a>
+* 승우 <a href="https://velog.io/@swbaik01/JavaScript-예제">승우 해답</a>
 * 승태 <a href=""></a>
 * 유민 <a href=""></a>
 * 지민 <a href=""></a>
