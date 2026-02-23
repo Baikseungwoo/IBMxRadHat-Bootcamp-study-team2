@@ -1,5 +1,5 @@
 # Study of Team2
-for  learning JavaScrit and SQLD
+for  learning JavaScrit and python
 
 ### Study 개요
 
