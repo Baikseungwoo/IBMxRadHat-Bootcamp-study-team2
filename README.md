@@ -112,3 +112,15 @@ for  learning JavaScrit and python
 * 아림 <a href="https://velog.io/@kwonarim/IBM-x-Red-Hat-AI-Transformation-AX-Academy-6기-w8eb9e6x">아림 해답</a>
 <br>
 
+2026.02.24 (화) -  
+
+#### 파이썬 Class에 대한 개념정리 **
+
+* 승우 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+* 승태 <a href="https://no-stay.tistory.com/14"></a>
+* 유민 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+* 지민 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+* 건일 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+* 기은 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+* 아림 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+<br>
