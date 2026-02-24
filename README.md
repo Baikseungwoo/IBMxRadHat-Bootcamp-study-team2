@@ -116,11 +116,11 @@ for  learning JavaScrit and python
 
 #### 파이썬 Class에 대한 개념정리 **
 
-* 승우 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
-* 승태 <a href="https://no-stay.tistory.com/14"></a>
-* 유민 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
-* 지민 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
-* 건일 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
-* 기은 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
-* 아림 <a href="">JS-new Promise/ 파이썬 Class에 대한 개념정리</a>
+* 승우 <a href="">파이썬 Class에 대한 개념정리</a>
+* 승태 <a href="https://no-stay.tistory.com/14">파이썬 Class에 대한 개념정리</a>
+* 유민 <a href="">파이썬 Class에 대한 개념정리</a>
+* 지민 <a href="">파이썬 Class에 대한 개념정리</a>
+* 건일 <a href="">파이썬 Class에 대한 개념정리</a>
+* 기은 <a href="">파이썬 Class에 대한 개념정리</a>
+* 아림 <a href="">파이썬 Class에 대한 개념정리</a>
 <br>
