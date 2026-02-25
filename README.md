@@ -107,7 +107,7 @@ for  learning JavaScrit and python
 * 승태 <a href="https://no-stay.tistory.com/11">승태 해답</a>
 * 유민 <a href=""></a>
 * 지민 <a href=""></a>
-* 건일 <a href="">건일 해답</a> <a href="https://github.com/gunil123/ibm-redhat-ai-python.git">파이썬 정리</a>
+* 건일 <a href="https://velog.io/@gunil1123/스터디-문제자동-체점">건일 해답</a> <a href="https://github.com/gunil123/ibm-redhat-ai-python.git">파이썬 정리</a>
 * 기은 <a href="https://share.novela.so/file/699d6ebfd51b26b7a062e7aa">기은 해답</a>
 * 아림 <a href="https://velog.io/@kwonarim/IBM-x-Red-Hat-AI-Transformation-AX-Academy-6기-w8eb9e6x">아림 해답</a>
 <br>
