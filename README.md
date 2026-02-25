@@ -43,7 +43,7 @@ for  learning JavaScrit and python
 <td><a href="https://no-stay.tistory.com/">승태 블로그</td>
 <td><a href="">유민 블로그</td>
 <td><a href="">지민 블로그</td>
-<td><a href="">건일 블로그</td>
+<td><a href="https://velog.io/@gunil1123/posts">건일 블로그</td>
 <td><a href="https://share.novela.so/file/698b04848d3e7b4c0b4dcd1f">기은 블로그</td>
 <td><a href="">아림 블로그</td>
 </tr>
