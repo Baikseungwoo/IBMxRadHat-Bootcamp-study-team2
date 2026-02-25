@@ -120,7 +120,7 @@ for  learning JavaScrit and python
 * 승태 <a href="https://no-stay.tistory.com/14">파이썬 Class에 대한 개념정리</a>
 * 유민 <a href="">파이썬 Class에 대한 개념정리</a>
 * 지민 <a href="">파이썬 Class에 대한 개념정리</a>
-* 건일 <a href="">파이썬 Class에 대한 개념정리</a>
+* 건일 <a href="https://github.com/gunil123/ibm-redhat-ai-python.git">파이썬 Class에 대한 개념정리</a>
 * 기은 <a href="">파이썬 Class에 대한 개념정리</a>
 * 아림 <a href="">파이썬 Class에 대한 개념정리</a>
 <br>
