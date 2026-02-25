@@ -31,7 +31,7 @@ for  learning JavaScrit and python
 <td><a href="https://github.com/nst6830-hash">승태</td>
 <td><a href="">유민</td>
 <td><a href="">지민</td>
-<td><a href="">건일</td>
+<td><a href="https://github.com/gunil123">건일</td>
 <td><a href="">기은</td>
 <td><a href="">아림</td>
 
